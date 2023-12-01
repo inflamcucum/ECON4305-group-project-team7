@@ -7,7 +7,7 @@ The code files are arranged in the following order:
 
 P_Data Preprocessing 
 
-Train and test the models to predict inflation rate
+2. Train and test the models to predict inflation rate
 
 M1_ARIMA
 
@@ -21,7 +21,7 @@ M5_RF
 
 M6_LSTM
 
-Code used for discussions
+3. Code used for discussions
 
 D1_combined models
 
