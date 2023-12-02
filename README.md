@@ -11,7 +11,7 @@ The code files are arranged in the following order:
   - M2_Linear Regression with Regularisation
   - M3_XGB
   - M4_SVR
-  - M5_RF (first half)
+  - M5_RF
   - M6_LSTM
 3. Code used for discussions
   - D1_combined models
