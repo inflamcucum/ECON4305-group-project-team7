@@ -25,4 +25,4 @@ M6_LSTM
 
 D1_combined models
 
-D2_COVID
+D2_Pre-COVID results
