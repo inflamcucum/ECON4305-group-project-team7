@@ -4,30 +4,17 @@ This project is created by Joep Louwerse 21045807, Ng Wai Hin 20693279, Ngan Man
 The code files are arranged in the following order:
 
 1. Data preprocessing on the original dataset
-
-- P_Data Preprocessing 
-
-- Data preprocess.zip  #The processed data 
-
+  - P_Data Preprocessing 
+  - Data preprocess.zip  #The processed data 
 2. Train and test the models to predict inflation rate
-
-- M1_ARIMA
-
-M2_Linear Regression with Regularisation
-
-M3_XGB
-
-M4_SVR
-
-M5_RF
-
-M6_LSTM
-
+  - M1_ARIMA
+  - M2_Linear Regression with Regularisation
+  - M3_XGB
+  - M4_SVR
+  - M5_RF
+  - M6_LSTM
 3. Code used for discussions
-
-D1_combined models
-
-D2_Pre-COVID results
-
-D3_Removed features results
+  - D1_combined models
+  - D2_Pre-COVID results
+  - D3_Removed features results
 
