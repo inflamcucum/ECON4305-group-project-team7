@@ -5,13 +5,13 @@ The code files are arranged in the following order:
 
 1. Data preprocessing on the original dataset
 
-P_Data Preprocessing 
+- P_Data Preprocessing 
 
-Data preprocess.zip  #The processed data 
+- Data preprocess.zip  #The processed data 
 
 2. Train and test the models to predict inflation rate
 
-M1_ARIMA
+- M1_ARIMA
 
 M2_Linear Regression with Regularisation
 
